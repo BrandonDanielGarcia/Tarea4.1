@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tarea4.1</string>
+    <string name="TESOEM">Tecnologico de Estudios Superiores del Oriente del Estado de Mexico</string>
+    <string name="Correo">tesoem@tesoem.edu.mx</string>
+    <string name="iniciosecion">Inicia Sesion</string>
+    <string name="contraseña">Contraseña:</string>
+    <string name="accion">Acceder</string>
+    <string name="bienvenida">Bienvenido a mi app</string>
+</resources>
